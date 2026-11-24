@@ -1,0 +1,36 @@
+{
+  "dist_dir": "/Users/a1-6/singularity/right-wing/emp_005_t4c_canary/landing",
+  "zero_network_egress_verified": true,
+  "bundle_sha256": "60917b5fc25ea5f6a574893bb525914c12c0ff126965f10f1da781919e8a3de5",
+  "files": {
+    "app.js": {
+      "size_bytes": 19439,
+      "sha256": "30a88df595655a0332d59d5834cd10c90c5e0becf3dca2217fa8c7033315a9fe"
+    },
+    "config.js": {
+      "size_bytes": 5275,
+      "sha256": "77fef4abf7399f0730ec17c11729ec858fa436786da034fde647fe2850de884c"
+    },
+    "csv_parser.js": {
+      "size_bytes": 13087,
+      "sha256": "79a7e369ebeca9145a038e71200a01a80016e5186b0d9922f8d806a9710b4bd5"
+    },
+    "engine_plugin.js": {
+      "size_bytes": 39894,
+      "sha256": "45dfe54d508b0ba43c2ccb7b099cfd1e09aec2df004e580a6ec904a5e6ff37c4"
+    },
+    "index.html": {
+      "size_bytes": 8574,
+      "sha256": "90d4f2df4b254b34f52432efc3b1c47c12e468083a2364279d9db6cde322ed86"
+    },
+    "samples.js": {
+      "size_bytes": 3869,
+      "sha256": "3eefd2366628dd873519167ec7f8fd5a223db79153abb64d580700ef40eb64e5"
+    },
+    "styles.css": {
+      "size_bytes": 9367,
+      "sha256": "6ec4cd9f317be84df34da11573529776c148969deff6e07a5ed288d1ac1ae534"
+    }
+  },
+  "created_at_utc": "2026-11-24T11:54:34.283368+00:00"
+}
